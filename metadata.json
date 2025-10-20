@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Michai Chat",
+  "description": "A conversational chat application where users can interact with Michai, a friendly AI friend powered by the Gemini API. The app features a visually appealing blue and green themed interface, voice input, and text-to-speech replies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
